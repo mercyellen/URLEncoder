@@ -1,0 +1,5 @@
+/Users/mercyhoush/Desktop/IT2001/URLEncoder/URLEncoder/bin/Debug/URLEncoder.exe
+/Users/mercyhoush/Desktop/IT2001/URLEncoder/URLEncoder/bin/Debug/URLEncoder.pdb
+/Users/mercyhoush/Desktop/IT2001/URLEncoder/URLEncoder/obj/x86/Debug/URLEncoder.csproj.CoreCompileInputs.cache
+/Users/mercyhoush/Desktop/IT2001/URLEncoder/URLEncoder/obj/x86/Debug/URLEncoder.exe
+/Users/mercyhoush/Desktop/IT2001/URLEncoder/URLEncoder/obj/x86/Debug/URLEncoder.pdb

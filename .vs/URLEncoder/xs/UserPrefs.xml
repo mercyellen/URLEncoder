@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{577F94F6-C9B9-4330-AFCA-D15730591FFB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="URLEncoder/Program.cs">
+    <Files>
+      <File FileName="URLEncoder/Program.cs" Line="34" Column="6" />
+      <File FileName="../Document/Document/Program.cs" Line="34" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.URLEncoder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
